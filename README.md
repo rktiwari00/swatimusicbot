@@ -1,4 +1,4 @@
-<h1 align="centre">SWATIMUSICBOT V4.5 🎵</h1> 
+<h1 align="centre">SWATIMUSICBOT V5 🎵</h1> 
 
 ## old version
 
@@ -28,7 +28,7 @@
 
 ### 💜 Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rktiwari00/swatimusicbot/tree/legacy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rktiwari00/swatimusicbot)
 
 Get pyrogram (p)  `SESSION` from here:
 [![Run on Repl.it](https://repl.it/badge/github/SpEcHiDe/GenerateStringSession)](https://repl.it/@SpEcHiDe/GenerateStringSession)
